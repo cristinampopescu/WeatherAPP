@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ad1b2ad-c738-487d-ba13-e94aa7e45cd7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__mocks__/react-native-mmkv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__tests__/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__tests__/MyCity.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__tests__/Welcome.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-native.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/clouds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/drop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/gps-navigation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/heavy-rain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/hot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/navigation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/options-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/rainy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/right-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/sun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/sunWithCloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/ultraviolet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/umbrella.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/weather-forecast.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/windy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CustomActivityIndicator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodayWeatherInfoComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WrapperContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/urls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/AuthKeys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/fontFamily.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/imagePath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/AuthStack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/BottomTabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/MainStack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigation/Routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/Store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/AuthSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/details/Details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/mapScreen/MapScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/myCity/MyCity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/searchScreen/SearchScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/settingsScreen/SettingsScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/welcome/Welcome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/CommonStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/ResponsiveSize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/HelperFunctions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Urls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="35YiJAmAMiRBiusS6g5lws2mlkL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Jest.All Tests.executor": "Run",
+    "Jest.MyCity screen test (1).executor": "Run",
+    "Jest.MyCity screen test (2).executor": "Run",
+    "Jest.MyCity screen test (3).executor": "Run",
+    "Jest.MyCity screen test (4).executor": "Run",
+    "Jest.MyCity screen test (5).executor": "Run",
+    "Jest.MyCity screen test.executor": "Run",
+    "Jest.MyCity screen test.removes an item when delete button is pressed.executor": "Run",
+    "Jest.MyCity.test.tsx.executor": "Run",
+    "Jest.Welcome screen - button click only.executor": "Run",
+    "Jest.Welcome screen - button click only.runs saveToken when the button is pressed.executor": "Run",
+    "Jest.Welcome.test.tsx.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/cristinamp/gitroot/Weather/assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "/Users/cristinamp/gitroot/Weather/node_modules/jest",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/cristinamp/gitroot/Weather/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src/assets/fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.MyCity.test.tsx">
+    <configuration name="MyCity screen test (4)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/__tests__/MyCity.test.tsx" />
+      <test-names>
+        <test-name value="MyCity screen test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="MyCity screen test (5)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/__tests__/MyCity.test.tsx" />
+      <test-names>
+        <test-name value="MyCity screen test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="MyCity screen test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/__tests__/MyCity.test.tsx" />
+      <test-names>
+        <test-name value="MyCity screen test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="MyCity screen test.removes an item when delete button is pressed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/MyCity.test.tsx" />
+      <test-names>
+        <test-name value="MyCity screen test" />
+        <test-name value="removes an item when delete button is pressed" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="MyCity.test.tsx" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/__tests__/MyCity.test.tsx" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.MyCity.test.tsx" />
+        <item itemvalue="Jest.MyCity screen test" />
+        <item itemvalue="Jest.MyCity screen test.removes an item when delete button is pressed" />
+        <item itemvalue="Jest.MyCity screen test (5)" />
+        <item itemvalue="Jest.MyCity screen test (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.27397.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ad1b2ad-c738-487d-ba13-e94aa7e45cd7" name="Changes" comment="" />
+      <created>1763293331920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763293331920</updated>
+      <workItem from="1763293333362" duration="1981000" />
+      <workItem from="1763295731141" duration="475000" />
+      <workItem from="1763296223888" duration="79483000" />
+      <workItem from="1763414728627" duration="7702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/__tests__/Welcome.test.tsx</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Weather$MyCity_test_tsx.info" NAME="MyCity.test.tsx Coverage Results" MODIFIED="1763413549661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

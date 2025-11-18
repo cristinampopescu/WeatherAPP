@@ -1,0 +1,17 @@
+export default {
+    rainy:require('../assets/images/rainy.png'),
+    map:require('../assets/images/map.png'),
+    optionsList:require('../assets/images/options-list.png'),
+    settings:require('../assets/images/settings.png'),
+    umbrella:require('../assets/images/umbrella.png'),
+    arrow:require('../assets/images/right-arrow.png'),
+    clouds:require('../assets/images/clouds.png'),
+    drop:require('../assets/images/drop.png'),
+    heavyRain:require('../assets/images/heavy-rain.png'),
+    hot:require('../assets/images/hot.png'),
+    sun:require('../assets/images/sun.png'),
+    sunWithCloud:require('../assets/images/sunWithCloud.png'),
+    ultraviolet:require('../assets/images/ultraviolet.png'),
+    windy:require('../assets/images/windy.png'),
+    navigation:require('../assets/images/navigation.png'),
+}

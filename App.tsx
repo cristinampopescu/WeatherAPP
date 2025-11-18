@@ -1,20 +1,33 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import Routes from "./src/navigation/Routes";
+import {GestureHandlerRootView} from "react-native-gesture-handler";
+import {Provider} from "react-redux";
+import {createMMKV} from "react-native-mmkv";
+import {saveUserData} from "./src/redux/reducers/AuthSlice";
+import {useEffect} from "react";
+import store from "./src/redux/Store";
+
+const {dispatch} = store;
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    // @ts-ignore
+    const storage = new createMMKV();
+    const getUserDataFromStore = () => {
+        const token = storage.getString("token");
+        if (token) {
+            dispatch(saveUserData({
+                userData: {name:"Cristina", Gender: "F", Country: "Ro"},
+                isLogin: true,
+            }))
+        }
+    };
+    useEffect(() => {
+        getUserDataFromStore()
+    }, []);
+    return (
+      <Provider store={store}>
+          <GestureHandlerRootView>
+            <Routes/>
+          </GestureHandlerRootView>
+      </Provider>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
