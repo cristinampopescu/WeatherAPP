@@ -5,64 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ad1b2ad-c738-487d-ba13-e94aa7e45cd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__mocks__/react-native-mmkv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__tests__/App.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__tests__/MyCity.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__tests__/Welcome.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-native.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/clouds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/drop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/gps-navigation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/heavy-rain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/hot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/navigation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/options-list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/rainy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/right-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/settings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/sun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/sunWithCloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/ultraviolet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/umbrella.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/weather-forecast.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/windy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomActivityIndicator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TodayWeatherInfoComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/WrapperContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/urls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/AuthKeys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/fontFamily.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/imagePath.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navigation/AuthStack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navigation/BottomTabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navigation/MainStack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navigation/Routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/Store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/reducers/AuthSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/details/Details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/mapScreen/MapScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/myCity/MyCity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/searchScreen/SearchScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/settingsScreen/SettingsScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/welcome/Welcome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Colors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/CommonStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/ResponsiveSize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/HelperFunctions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/Urls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +157,7 @@
       <workItem from="1763293333362" duration="1981000" />
       <workItem from="1763295731141" duration="475000" />
       <workItem from="1763296223888" duration="79483000" />
-      <workItem from="1763414728627" duration="7702000" />
+      <workItem from="1763414728627" duration="8962000" />
     </task>
     <servers />
   </component>
